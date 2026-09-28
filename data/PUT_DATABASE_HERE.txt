@@ -1,0 +1,3 @@
+Place your MATLAB database in this folder.
+Recommended filename: database.mat
+The app will also detect the first *.mat file in this folder.
