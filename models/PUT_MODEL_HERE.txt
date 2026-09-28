@@ -1,0 +1,9 @@
+Required for ML inference:
+- crp_models.joblib  (create once by running: python pretrain_ml.py)
+
+Required for DL inference:
+- BCRP_script.pt
+- BCRP_dataset_X.pkl
+- BCRP_dataset_Y.pkl
+
+The two scaler PKL files supplied in the current chat are already included in this project package.
